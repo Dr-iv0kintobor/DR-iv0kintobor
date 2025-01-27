@@ -1,4 +1,4 @@
-## Hi there 👋
+🕹⚙🔌📡!Greetings!📡🔌⚙🕹
 
 <!--
 **Dr-iv0kintobor/DR-iv0kintobor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a new coder who is currently involved in robotics projects
+I will expand my knowledge and acheivments later.
